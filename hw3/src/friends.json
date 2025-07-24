@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "avatar": "./av.jpg",
+    "name": "Mark",
+    "isOnline": true
+  },
+  {
+    "id": 2,
+    "avatar": "./av.jpg",
+    "name": "Kiwi",
+    "isOnline": false
+  },
+  {
+    "id": 3,
+    "avatar": "./av.jpg",
+    "name": "Poly",
+    "isOnline": true
+  }
+]
